@@ -2,7 +2,7 @@ import requests
 import urllib.parse
 
 """
-Chech the name of the cities in the file: greek_cities.py
+Chech the name of the cities in the file: cities.py
 Assign a new city 
 """
 
